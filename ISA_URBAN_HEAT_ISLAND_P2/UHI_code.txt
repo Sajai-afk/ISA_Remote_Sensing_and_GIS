@@ -1,0 +1,15 @@
+Total AOI area (sq km):
+196.6308822101956
+
+NDBI-LST Correlation:
+Object (2 properties)
+  correlation: 0.646989299852366
+  p-value: 0
+
+Mean LST for AOI (°C):
+Object (1 property)
+  LST: 39.338177262724265
+
+Urban Heat Zone area (sq km):
+Object (1 property)
+  area: 187.0482363413284
